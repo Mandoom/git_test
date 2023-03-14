@@ -1,1 +1,3 @@
 This is a test documment for testing the github workflow.
+
+This message is to test a git commit template.
